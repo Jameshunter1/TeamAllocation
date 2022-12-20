@@ -1,6 +1,6 @@
 # Team Allocation App Project
 
-This is a React application that demonstrates my skills using the library to manage 5state. It includes a few basic features and is intended as a portfolio piece.
+This is a React application that demonstrates my skills using the library to manage state. It includes a few basic features and is intended as a portfolio piece.
 
 # Getting Started
 
