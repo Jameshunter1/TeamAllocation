@@ -1,6 +1,6 @@
 # Team Allocation App Project
 
-This project is a simple JavaScript application that demonstrates my skills in the language. It includes a few basic features and is intended as a portfolio piece.
+This is a React application that demonstrates my skills using the library to manage 5state. It includes a few basic features and is intended as a portfolio piece.
 
 # Getting Started
 
