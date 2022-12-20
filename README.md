@@ -1,6 +1,8 @@
-![teamallocation](https://user-images.githubusercontent.com/90528783/190915758-1f8717b3-9354-43e2-b2a1-70842e777995.JPG)
+# Team Allocation App Project
 
-# Getting Started with Create React App
+This project is a simple JavaScript application that demonstrates my skills in the language. It includes a few basic features and is intended as a portfolio piece.
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,3 +72,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+To get started with this project, simply clone the repository and open the index.html file in your web browser. No additional setup is required.
+
+# Features
+
+- Allows selected and deselection of team members within groups
+- Holds the state of team members selected within their respective groups
+- Box shadows display selected members
+
+# Technologies Used
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+![teamallocation](https://user-images.githubusercontent.com/90528783/190915758-1f8717b3-9354-43e2-b2a1-70842e777995.JPG)
