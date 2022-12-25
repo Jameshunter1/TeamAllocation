@@ -78,7 +78,7 @@ To get started with this project, simply clone the repository and open the index
 
 # Features
 
-- Allows selected and deselection of team members within groups
+- Allows selection and deselection of team members within groups
 - Holds the state of team members selected within their respective groups
 - Box shadows display selected members
 
